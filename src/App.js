@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-        <h1>HELLO WERLD</h1>
+        <h1>JAY-R GWAPO</h1>
     </div>
   );
 }
